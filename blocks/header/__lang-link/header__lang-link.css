@@ -1,0 +1,8 @@
+.header__lang-link {
+	margin: 0;
+	padding: 0;
+	font-size: calc(18px + 6 * ((100vw - 320px) / (1280 - 320)));
+	font-weight: 400;
+	text-decoration: none;
+	color: #ffffff;
+}
