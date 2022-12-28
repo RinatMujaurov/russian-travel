@@ -12,5 +12,5 @@
 - Файловая структура БЭМ Nested
 - Использована методология БЭМ
 
-https://rinatmujaurov.github.io/russian-travel-03/
+https://rinatmujaurov.github.io/russian-travel/
 
