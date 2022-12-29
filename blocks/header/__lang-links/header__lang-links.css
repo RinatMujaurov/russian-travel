@@ -1,8 +1,8 @@
 .header__lang-links {
 	margin: 0;
-	position: absolute;
-	right: 0;
-	bottom: 3px;
+	margin-top: 10px;
 	display: flex;
+	justify-content: center;
+	align-items: center;
 	gap: 18px;
 }

@@ -6,3 +6,8 @@
 	text-decoration: none;
 	color: #ffffff;
 }
+
+.header__lang-link:hover {
+	opacity: 0.8;
+	transition: opacity .5s ease-out;
+ }

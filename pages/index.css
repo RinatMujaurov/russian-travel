@@ -1,6 +1,6 @@
 @import url(../vendor/normalize.css);
 
-@import url(../fonts/inter/inter.css);
+@import url(../vendor/fonts/inter/inter.css);
 @import url(../blocks/root/root.css);
 @import url(../blocks/page/page.css);
 
@@ -10,7 +10,7 @@
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 
-@import url(../blocks/route/route.css);
+@import url(../blocks/description/description.css);
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/lead/__title/lead__title.css);

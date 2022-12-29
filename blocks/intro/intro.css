@@ -3,18 +3,15 @@
 	padding: 0;
 	color: #ffffff;
 	max-width: 690px;
-	max-height: 429px;
 }
 @media (max-width: 1023px) {
 	.intro{
 		margin: 0 auto;
 		max-width: 720px;
-	   max-height: 429px;
 	}
 }
 @media (max-width: 767px) {
 	.intro{
 		max-width: 288px;
-	   max-height: 754px;
 	}
 }
