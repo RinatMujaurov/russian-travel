@@ -1,4 +1,4 @@
-# Проект: Путешествие по России
+# Project: Traveling in Russia
 
 Project work Yandex.Praktikum on adaptive website layout
 
