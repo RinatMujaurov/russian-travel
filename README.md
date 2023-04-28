@@ -1,16 +1,16 @@
 # Проект: Путешествие по России
 
-Проектная работа Яндекс.Практикум по адаптивной верстке сайта
+Project work Yandex.Praktikum on adaptive website layout
 
 
-## Технологии использованые при разработке проекта
+## Technologies used in the development of the project
 - HTML
 - CSS
 - Git
 - Flex
 - Grid Layout
-- Файловая структура БЭМ Nested
-- Использована методология БЭМ
+- File structure of BEM Nested
+- BEM methodology used
 
 https://rinatmujaurov.github.io/russian-travel/
 
